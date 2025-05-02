@@ -23,6 +23,7 @@ The model was trained to predict the total annual cost given specific family and
 - **Backend**: Flask (Python)
 - **Model Handling**: `joblib` for loading the state encoder  
 - **Data**: CSV dataset for cost lookup, trained locally
+- **Model**: Linear Regression model trained through Jupyter Notebook
 
 ---
 
