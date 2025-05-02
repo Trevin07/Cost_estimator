@@ -1,4 +1,4 @@
-# Cost_estimator
+# Cost estimator
 # 🏠 Cost of Living Estimator Web App
 
 This web application helps estimate the **annual cost of living** based on inputs like state, metro area, number of parents, children, and whether childcare is needed. Users can compare estimated costs with the median family income to see how affordable life is in a given scenario.
